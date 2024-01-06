@@ -1,0 +1,18 @@
+{
+    "info": [{
+            "name": "John Doe",
+            "age": 25,
+            "occupation": "Software Developer"
+        },
+        {
+            "name": "harry kane",
+            "age": 30,
+            "occupation": "Graphic Designer"
+        },
+        {
+            "name": "Bob Smith",
+            "age": 22,
+            "occupation": "Marketing Specialist"
+        }
+    ]
+}
