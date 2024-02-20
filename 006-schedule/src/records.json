@@ -1,0 +1,19 @@
+{
+    "entries": [{
+            "date": "2024-03-01",
+            "events": ["Event 1: change your laptop", "Event 2: travel to x city"]
+        },
+        {
+            "date": "2024-03-02",
+            "events": ["Event 3: go to E32010 ^"]
+        },
+        {
+            "date": "2024-03-03",
+            "events": ["Event 4: go to the Barber", "Event 5: meet up with john"]
+        },
+        {
+            "date": "2024-03-13",
+            "events": ["Event 6: study for exams", "Event 7: pay rents"]
+        }
+    ]
+}
